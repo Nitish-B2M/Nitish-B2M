@@ -9,3 +9,4 @@ Email: nitishxsharma08@gmail.com
 Nitish-B2M/Nitish-B2M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Visitor Count](https://profile-counter.glitch.me/Nitish-B2M/count.svg)
